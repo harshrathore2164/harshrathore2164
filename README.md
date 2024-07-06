@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **harshrathore2164@gmail.com**
 
-- ⚡ Fun fact **I think I am funnyyy**
+- ⚡ Fun fact **You are not the only one who hasn't seen the homepage of StackOverflow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
