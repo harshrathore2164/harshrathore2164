@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-📫 I am a  passionate Mern stack developer from Nirma University currently in 4th year<br>🌱 I’m currently learning Machine Learning and Deep Learning concepts<br>👨‍💻 All of my projects are available at https://github.com/harshrathore2164/<br>📫 How to reach me harshrathore2164@gmail.com<br>⚡ Fun fact You are not the only one who hasn't seen the homepage of StackOverflow
+📫 I am a  passionate Mern stack developer from Nirma University currently in 4th year<br>🌱 I’m currently learning Machine Learning and Deep Learning concepts<br>👨‍💻 All of my projects are available at https://github.com/harshrathore2164/<br>📫 How to reach me harshhrathorework@gmail.com<br>⚡ Fun fact You are not the only one who hasn't seen the homepage of StackOverflow
 
 
 ## 🌐 Socials:
